@@ -3,7 +3,8 @@ const app = new Vue ({
     data: {
         hello: "",
         VUEHELLO: "VUE-HELLO",
-        
+        hello: 'sunburn300.png'
+
     },
    
 })
